@@ -67,10 +67,12 @@ Menambahkan header dan footer kedalam file about.php dengan function require()
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 - Source Code
-
-    Saya memasukkann baris kode file tambah.php dan ubah.php pada index.php dengan function require_once() 
+  
+      Saya memasukkann baris kode file tambah.php dan ubah.php pada index.php dengan function require_once()
+      begitu pula pada file tambah.php dan ubah.php sehingga setiap halaman memiliki tampilan yang sama
 ![tugas](/image/code%20Tugas.png)
 
 - Output
+
 ![outputTugas](/image/Tugas.png)
 # Terima kasih!
